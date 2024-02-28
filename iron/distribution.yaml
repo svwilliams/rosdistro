@@ -2333,7 +2333,7 @@ repositories:
     release:
       tags:
         release: release/iron/{package}/{version}
-      url: https://github.com/ros-gbp/interactive_marker_twist_server-release.git
+      url: https://github.com/ros2-gbp/interactive_marker_twist_server-release.git
       version: 2.1.0-1
     source:
       type: git
